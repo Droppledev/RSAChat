@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "11951852569",
+    "firebase_url": "https://deschat-78dc9.firebaseio.com",
+    "project_id": "deschat-78dc9",
+    "storage_bucket": "deschat-78dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11951852569:android:f339399c3c370985",
+        "android_client_info": {
+          "package_name": "com.droppledev.deschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11951852569-s0vq867qj0pb3aonhmh851rmlik4aga0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droppledev.deschat",
+            "certificate_hash": "2886b93c983a99e6a12f1cb5fe138001eefaa565"
+          }
+        },
+        {
+          "client_id": "11951852569-0ntqljikc97it65hmft17986o3shmm9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDr_vAC7npXvAxMmtnKd5jRLupOfqMrDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11951852569-0ntqljikc97it65hmft17986o3shmm9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
